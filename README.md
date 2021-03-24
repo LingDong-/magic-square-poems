@@ -40,7 +40,7 @@ Observe the above 5x5 matrix of Chinese characters: when read horizontally, it c
 心斷絕
 ```
 
-出鐘輻、李珣，盧仝也。其餘錄於[是](./result3.txt)。
+出鍾輻、李珣，盧仝也。其餘錄於[是](./result3.txt)。
 
 七言幻方尤難於五言遠甚。全唐十三萬五千六百句，未得其一焉。故為寬限，但拘四句一三五七字耳。所得遂眾。復欲擇其平仄押韻合於格律，於理通順者，則鮮矣。何耶？使二四句押韻，末句三七字必同韻，犯八病之中小韻之目矣，故唐人不多為也。
 
