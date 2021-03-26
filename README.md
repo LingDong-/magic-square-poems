@@ -52,7 +52,7 @@ Observe the above 5x5 matrix of Chinese characters: when read horizontally, it c
 九曲寒波不溯流
 派　波　知　落
 人面不知何處在
-歸　溯　何　并
+歸　溯　處　并
 少年流落在并州
 ```
 
